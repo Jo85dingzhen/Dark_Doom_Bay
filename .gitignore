@@ -1,1 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node / package mgr
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Build / bundle
+dist/
+build/
+*.zip
+*.min.html
+
+# IDE / tools
+.vscode/
+.idea/
+.claude/
+*.local.json
+*.log
+
+# OS device names
 nul
